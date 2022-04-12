@@ -34,9 +34,9 @@ services:
     ports:
         - "9272:9272"
     environment:
-        VSPHERE_HOST: "100.110.1.253"
+        VSPHERE_HOST: "100.110.1.25"
         VSPHERE_USER: "Administrator@VSPHERE.LOCAL"
-        VSPHERE_PASSWORD: "Isl@mabad#321"
+        VSPHERE_PASSWORD: "zakiryya321"
         VSPHERE_IGNORE_SSL: "True"
         VSPHERE_COLLECT_VMS: "True"
         VSPHERE_COLLECT_VMGUESTS: "True"
